@@ -1,5 +1,3 @@
-package components
-
 package com.example.practica04.components
 
 import androidx.compose.foundation.layout.Row
