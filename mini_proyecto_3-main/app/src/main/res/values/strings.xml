@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">mini_proyecto_3</string>
+
+    <string name="list_title">Publicaciones</string>
+    <string name="list_empty">No hay publicaciones.</string>
+    <string name="list_empty_hint">Toca el boton + para crear una.</string>
+    <string name="new_post">Nueva publicacion</string>
+    <string name="edit_post">Editar publicacion</string>
+    <string name="back">Volver</string>
+    <string name="edit">Editar</string>
+    <string name="delete">Eliminar</string>
+    <string name="save">Guardar</string>
+    <string name="accept">Aceptar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="close">Cerrar</string>
+
+    <string name="field_title">Titulo</string>
+    <string name="field_title_required">El titulo es obligatorio</string>
+    <string name="field_description">Descripcion</string>
+    <string name="date_label">Fecha</string>
+    <string name="date_change">Cambiar</string>
+
+    <string name="photo_take">Tomar Foto</string>
+    <string name="photo_gallery">Galeria</string>
+    <string name="photo_description">Foto de la publicacion</string>
+    <string name="photo_of">Foto de %1$s</string>
+    <string name="camera_denied">Sin permiso de camara.</string>
+    <string name="image_load_error">No se pudo cargar la imagen</string>
+
+    <string name="delete_confirm_title">Eliminar publicacion</string>
+    <string name="delete_confirm_message">Se eliminara \"%1$s\" de forma permanente.</string>
+
+    <string name="msg_saved">Publicacion guardada</string>
+    <string name="msg_updated">Publicacion actualizada</string>
+    <string name="msg_deleted">Publicacion eliminada</string>
+</resources>
